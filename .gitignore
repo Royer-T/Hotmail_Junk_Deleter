@@ -3,3 +3,9 @@
 
 # idea folder
 .idea
+
+# ico file
+.ico
+
+# PyInstaller
+*.spec
