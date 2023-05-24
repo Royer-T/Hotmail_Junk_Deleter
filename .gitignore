@@ -5,7 +5,7 @@
 .idea
 
 # ico file
-.ico
+*.ico
 
 # PyInstaller
 *.spec
